@@ -1,0 +1,23 @@
+{
+  "name": "App",
+  "version": "0.0.1",
+  "description": "Philom",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "apollo-server-express": "^2.25.1",
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.12.12",
+    "graphql": "^15.5.0",
+    "googleapis": "^75.0.0",
+    "graphql-upload": "^12.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "Avi Takiyar",
+  "license": "ISC"
+}
