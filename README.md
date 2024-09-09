@@ -3,4 +3,4 @@ This is the backend of the application which is an Apollo Server (single endpoin
 
 * Demo Link: [https://philom-7278d.web.app/](https://philom-7278d.web.app/)
 * GraphQL Endpoint: [https://philom.glitch.me/](https://philom.glitch.me/)
-* Frontend GitHub Repo: [https://github.com/aviTak/Philom-Frontend](https://github.com/aviTak/Philom-Frontend)
+* Frontend GitHub Repo: [https://github.com/aviTak/Philom-Frontend](https://github.com/aviTak/Philom)
